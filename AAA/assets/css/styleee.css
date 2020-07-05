@@ -1,0 +1,162 @@
+.dropbtn {
+   
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: chocolate;;
+  min-width: 160px;
+  
+  
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color:black;
+  padding: 8px 12px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: chocolate;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:chocolate;}
+
+
+
+.nav-a {
+background-color:white;
+}
+.carousel-item active img{
+width:100%; 
+height:700px;
+}
+.carousel-item img {
+width:100%; 
+height:700px;
+}
+.container-fluid-e{
+background-color:lightgreen;
+}
+.row-d{
+background-image: url(b.jpg);
+ background-size: cover;
+  background-attachment: fixed; 
+   background-repeat: no-repeat;
+}
+.container-fluid parallax col{
+color:white;
+}
+.row-e{
+background-color: #004d40;
+color:white;
+font-size:20px;
+}
+.row-f{
+background-color: white;
+}
+
+.a {
+color:darkblue;
+}
+.row-1 {
+height:2px; width:10%; 
+background-color:orange;
+}
+.container-fluid-a {
+background-image: url(a.jpg);
+background-size: cover;
+background-color: white;
+}
+
+
+.row a{
+padding-left:0px; 
+padding-right:1px;
+}
+.row-b h1{
+text-align: center; 
+color:white; 
+margin-top:30px;
+}
+.row-c h4{
+text-align: center;
+ color:white;
+  margin-top:10px;
+}
+.A {
+border-radius: 50%; 
+}
+.B{
+text-align: center; color:blue; margin-top:30px;
+}
+.nav-item active{
+color:black; 
+
+}
+.container-fluid-1  {
+background-color: #004d40; 
+color:white;
+}
+.container-fluid-2 {
+background-color: black;
+color:white;
+}
+.row-g{
+color:white;
+}
+.container-fluid-3{
+font-size: 30px;
+color:white;
+}
+.container-fluid-4{
+background-color: chocolate;
+color:white;
+}
+.container-fluid-5{
+color:white;
+}
+.B{
+background-color: white;
+ width:5%; 
+ height:5px;
+}
+.C{
+background-color: blue; 
+width:5%; 
+height:5px;
+}
+.col-C{
+background-color:lightpink; 
+margin:50px;
+}
+.D{
+color:blue;
+}
+.L{
+color:black;
+}
+.col-6{
+margin-right:100px;
+}
+.form-control{
+background-color:lightpink;
+}
+.container-fluid-7{
+color:blue;
+}
+.G{
+text-align: center; color:blue; margin-top:30px;
+}
